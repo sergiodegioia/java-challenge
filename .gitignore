@@ -1,1 +1,7 @@
 target
+Session.vim
+**/*.swp
+**/*.swo
+**/*~
+**/tags
+
